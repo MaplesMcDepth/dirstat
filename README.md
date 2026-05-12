@@ -1,5 +1,10 @@
 # dirstat
 
+![CI](https://github.com/MaplesMcDepth/dirstat/actions/workflows/ci.yml/badge.svg)
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+![Go Version](https://img.shields.io/badge/Go-1.23+-00ADD8?logo=go)
+
+
 Directory size analyzer — like `du` but readable.
 
 ## Install
